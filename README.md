@@ -1,4 +1,4 @@
-#Gaussian Blur Project - Parking Space Detection System
+# Gaussian Blur Project - Parking Space Detection System
  _Final-year project done in a three-member team._
  
  - The system detects free parking spaces from an image using various image processing algorithms.
@@ -6,7 +6,7 @@
 
 ## Project Development Flow
 
- - 1 System-Level Design (**esl**) - Initial algorithm in Python and C++, bit analysis, SystemC model, performance estimation, HW/SW co-simulation
+ - 1 System-Level Design (**esl**) - Initial algorithm in Python and C++, bit analysis, Virtual Platform, performance estimation, HW/SW co-simulation
  - 2 RTL System Design – Design of an IP core with some optimizations
  - 3 Functional Verification - UVM testbench that verifies the correct functionality of the design
  - 4 Linux Driver and User Application(**eos**) - Implemented software drivers and an application to interact with the hardware design
